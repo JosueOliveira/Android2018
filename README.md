@@ -40,3 +40,8 @@ Projeto 4 - Calculos Trabalhistas
 - Intent para abrir outra página
 - Botão de voltar no menu
 - Intent para abrir uma página web
+
+Projeto - 5 - 
+- Intents (Abrir um atividade externa, SMS, Email, Telefone)
+- Permission(Enviar email, Realizar Ligações, Enviar SMS)
+- Utilizando Layout Menu (navegação entra pages)
