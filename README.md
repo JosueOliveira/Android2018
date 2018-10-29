@@ -31,3 +31,12 @@ Projeto 3 -Catálogo de Filmes
 - Notificação simples
 - Utilização do when
 - Utilização de métodos ocultos
+
+
+Projeto 4 - Calculos Trabalhistas
+
+- Exemplo do gerenciador de layout - ConstraintLayout e Linear Layout com Scroll
+- Button
+- Intent para abrir outra página
+- Botão de voltar no menu
+- Intent para abrir uma página web
