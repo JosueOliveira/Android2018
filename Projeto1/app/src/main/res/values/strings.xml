@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Álcool ou Gasolina</string>
+    <string name="txtGasolina">Digite o valor da gasolina</string>
+    <string name="txtAlcool">Digite o valor do alccol</string>
+</resources>
