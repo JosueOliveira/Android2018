@@ -26,7 +26,7 @@ Projeto 2 - Calculadora IMC
 Projeto 3 -Catálogo de Filmes
 
 - Exemplo do gerenciador de layout - ConstraintLayout
-- Spinner
+- Spinner(Combo Box)
 - ImageView (alterando a imagem com imagens do drawable)
 - Notificação simples
 - Utilização do when
