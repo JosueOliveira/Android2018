@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Cálculos Trabalhistas</string>
+    <string name="salarioBruot">Salario Bruto</string>
+    <string name="tx" />
+    <string name="slBruto">Salario Bruto</string>
+    <string name="mTrab">Meses Trabalhados</string>
+    <string name="calculo_fgts">Calculo FGTS</string>
+    <string name="c_lculo_seguro_desemprego">Cálculo Seguro Desemprego</string>
+    <string name="c_lculo_f_rias">Cálculo Férias</string>
+    <string name="c_lculo_recis_o">Cálculo Recisão</string>
+    <string name="c_lculo_inss">Cálculo INSS</string>
+    <string name="sl">sl</string>
+    <string name="an">an</string>
+    <string name="he">he</string>
+    <string name="sh">sh</string>
+    <string name="penultimoSl">Penúltimo salário</string>
+    <string name="ultimoSl">Último salário</string>
+    <string name="mesesTrabalhado">Meses Trabalhados</string>
+    <string name="qtdacionado">Quantas vezes acionou o seguro?</string>
+    <string name="salario">Salário</string>
+    <string name="calcular">Calcular</string>
+    <string name="x">X</string>
+    <string name="fonte">Fonte</string>
+    <string name="antePene">Antepenúltimo Salário</string>
+</resources>
