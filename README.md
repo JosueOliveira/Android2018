@@ -45,3 +45,6 @@ Projeto - 5 -
 - Intents (Abrir um atividade externa, SMS, Email, Telefone)
 - Permission(Enviar email, Realizar Ligações, Enviar SMS)
 - Utilizando Layout Menu (navegação entra pages)
+
+Projeto 5 v2
+- Menu Navigation
