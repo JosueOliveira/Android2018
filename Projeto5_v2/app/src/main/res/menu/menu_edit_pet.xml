@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuPetExclui"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/excluir" />
+    <item
+        android:id="@+id/menuPetFavorito"
+        android:icon="@android:drawable/btn_star"
+        android:title="@string/favorito"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menuEditarPet"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/editarpet"
+        android:visible="true"
+        app:showAsAction="always" />
+</menu>
