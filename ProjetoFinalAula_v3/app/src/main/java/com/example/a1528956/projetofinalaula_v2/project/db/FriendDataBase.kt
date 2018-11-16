@@ -26,6 +26,7 @@ abstract class FriendDataBase : RoomDatabase(){
                         "friend_database"
                 )
                         .fallbackToDestructiveMigration()
+                        .addCallback(FreindDatabaseCallback(scope))
                         .build()
                 INSTANCE = instance
                 instance
