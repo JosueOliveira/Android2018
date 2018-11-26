@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Meus Amigos</string>
+    <string name="nome">Juliana Helena Tibães</string>
+    <string name="telefone">99999-9999</string>
+    <string name="email">juliana.tibaes@up.edu.br</string>
+    <string name="face">Facebook</string>
+    <string name="excluir">Excluir</string>
+    <string name="favorito">Favorito</string>
+    <string name="editar">Editar</string>
+    <string name="amigoFoto">foto da pessoa</string>
+</resources>
