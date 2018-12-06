@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cine Plus</string>
+    <string name="txtNomeFilme">Nome Filme</string>
+    <string name="lblNome">Nome</string>
+    <string name="excluir">excluir</string>
+    <string name="menusave">Salvar</string>
+
+</resources>
